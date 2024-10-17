@@ -1,5 +1,5 @@
 ## Cách hoạt động của Internet    
-![Internet Work Picture](\Learing_Web\Pictures)  
+![Internet Work Picture](Pictures/InternetWork.png)  
 ##### 1. Khái niệm:  
 * Máy khách (Client): điện thoại, máy tính, .....
 * Domain: tên miền (ví dụ: facebook.com, youtube.com,......)
